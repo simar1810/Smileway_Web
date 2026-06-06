@@ -6,10 +6,12 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.smile",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "FA:98:AD:AB:E4:AA:10:64:3C:0D:16:E7:8C:AD:55:5D:AF:78:A6:D6:DE:03:4D:AB:5D:AC:E9:3E:63:79:E1:C0"
       ]
     }
   }
 ]
+
+
